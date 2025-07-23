@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "fileName": "bangla_class6.pdf",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1TZjHo5_Og_9Ls5Y9zbNR0kCbyGHDS9Ev"
+    },
+    {
+      "fileName": "math_class6.pdf",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1TaHeHEgJbssiQDtMgF3C583WvpbGkdsJ"
+    },
+    {
+      "fileName": "science_class6.pdf",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1TaHeHEgJbssiQDtMgF3C583WvpbGkdsJ"
+    }
+  ]
+}
